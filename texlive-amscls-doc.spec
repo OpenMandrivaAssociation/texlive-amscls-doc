@@ -1,6 +1,6 @@
 Name:		texlive-amscls-doc
 Version:	46110
-Release:	1
+Release:	2
 Summary:	User documentation for AMS document classes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/amscls-doc

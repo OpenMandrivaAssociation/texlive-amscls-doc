@@ -3,7 +3,7 @@ Version:	46110
 Release:	2
 Summary:	User documentation for AMS document classes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/amscls-doc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/amscls-doc
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/amscls-doc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/amscls-doc.doc.r%{version}.tar.xz
